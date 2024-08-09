@@ -51,3 +51,30 @@ check_distinct_dates(
     output_path="../output"
 )
 ```
+
+##  `create_aoi` 
+
+function that creates a minimum bounding geometry for the features from the `geojson_features` and writes the resulting AOI (Area of Interest) to an `aoi.geojson` file at the specified `output_path`.
+
+
+
+### Key Points:
+
+- **Loading GeoJSON Features**: The function starts by loading the input GeoJSON file.
+- **Geometry Collection**: It collects all valid geometries from the features.
+- **Minimum Bounding Geometry**: Using `shapely.ops.unary_union`, it combines all the geometries into one, and then computes the minimum bounding geometry (convex hull) that contains all the geometries.
+- **Output GeoJSON**: The function creates a new GeoJSON structure with the bounding geometry and saves it as `aoi.geojson` in the specified `output_path`.
+- **Error Handling**: If no valid geometries are found in the input, the function raises a `ValueError`.
+
+### Usage:
+
+- Run the `create_aoi()` function with the paths to your input GeoJSON file and the desired output directory.
+- The function will generate an `aoi.geojson` file containing the minimum bounding geometry for all the features in your input GeoJSON.
+
+```python
+# Example usage
+create_aoi(
+    geojson_features="../data/village_points_esri_imagery_08092024.geojson",
+    output_path="../output"
+)
+```

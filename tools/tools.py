@@ -1,8 +1,29 @@
-import requests
+
+
+#general packages
+import os
 import json
+import glob
+import asyncio
+import requests
+import nest_asyncio
+import matplotlib.pyplot as plt
+from requests.auth import HTTPBasicAuth
+from datetime import datetime, timedelta
+from google.colab import userdata
+
+#geospatial packages
+import rasterio
+import geopandas as gpd
+from shapely.geometry import shape
 from shapely.geometry import shape, Point
 from shapely import wkt
-import os
+from shapely.ops import unary_union
+import folium
+
+
+#planet SDK
+from planet import Auth, reporting, Session, OrdersClient, order_request, data_filter
 
 
 
@@ -111,3 +132,22 @@ def check_distinct_dates(geojson_features, output_path):
         json.dump(output_data, f, indent=2)
 
     print(f"Distinct dates output saved to {output_file}")
+    
+    
+# planet_auth() authenticates with the Planet API using the PL_API_KEY environment variable
+
+    def planet_auth():
+    # Check if the Planet API Key is set as an environment variable
+    if 'PL_API_KEY' in os.environ:
+        API_KEY = os.environ['PL_API_KEY']
+    else:
+        API_KEY = input("PASTE_API_KEY_HERE AND HIT RETURN:   ")
+        os.environ['PL_API_KEY'] = API_KEY
+
+    # Authenticate with the Planet API
+    client = Auth.from_key(API_KEY)
+    
+    return client
+
+# Example usage
+client = planet_auth()
