@@ -79,35 +79,3 @@ create_aoi(
 )
 ```
 
-## `search_planet_imagery()` 
-
-takes the output from the `check_distinct_dates()` function, along with a GeoJSON file representing a single AOI, to perform searches for PlanetScope imagery. The function will store the results as JSON files and provide a summary of the searches.
-
-
-1. **Load AOI and Dates**:
-   - The AOI is loaded from the provided GeoJSON file.
-   - The distinct dates are loaded from the `appended_features_distinct_dates.json` file.
-
-2. **Date Range Calculation**:
-   - For each distinct date, a search is performed for imagery within one week before and one week after the date.
-
-3. **Search and Save Results**:
-   - The function queries the Planet API for imagery within the calculated date range and the AOI.
-   - The results for each search are saved as JSON files in the `search_results` directory under the specified `output_path`.
-
-4. **Summary of Results**:
-   - The function prints a summary that includes the distinct dates, the date range for each search, and the number of items found in each search.
-   - The summary is also saved as a JSON file named `search_summary.json` in the specified `output_path`.
-
-### Usage:
-
-You can call the `search_planet_imagery()` function with the path to your `appended_features_distinct_dates.json`, the AOI GeoJSON file, and the desired output path. The function will perform the searches, store the results, and print a summary.
-
-```
-# Example usage
-search_planet_imagery(
-    distinct_dates_file="../output/appended_features_distinct_dates.json",
-    aoi_geojson="../output/aoi.geojson",
-    output_path="../output"
-)
-```
