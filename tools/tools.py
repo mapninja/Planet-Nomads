@@ -149,5 +149,43 @@ def check_distinct_dates(geojson_features, output_path):
     
     return client
 
-# Example usage
-client = planet_auth()
+
+
+# create_aoi() creates a minimum bounding geometry (convex hull) from the input GeoJSON features
+
+def create_aoi(geojson_features, output_path):
+    # Load the GeoJSON features
+    with open(geojson_features, 'r') as f:
+        geojson_data = json.load(f)
+
+    # Collect all geometries from the features
+    geometries = [shape(feature['geometry']) for feature in geojson_data['features'] if feature.get('geometry')]
+
+    # Create a union of all geometries and calculate the minimum bounding geometry (convex hull)
+    if geometries:
+        combined_geometry = unary_union(geometries)
+        bounding_geometry = combined_geometry.convex_hull
+    else:
+        raise ValueError("No valid geometries found in the input GeoJSON.")
+
+    # Create the output GeoJSON structure
+    aoi_geojson = {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": mapping(bounding_geometry),
+                "properties": {}
+            }
+        ]
+    }
+
+    # Define the output file path
+    output_file = os.path.join(output_path, "aoi.geojson")
+
+    # Save the AOI to the output file
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    with open(output_file, 'w') as f:
+        json.dump(aoi_geojson, f, indent=2)
+
+    print(f"AOI saved to {output_file}")
