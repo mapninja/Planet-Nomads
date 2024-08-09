@@ -10,7 +10,6 @@ import nest_asyncio
 import matplotlib.pyplot as plt
 from requests.auth import HTTPBasicAuth
 from datetime import datetime, timedelta
-from google.colab import userdata
 
 #geospatial packages
 import rasterio
