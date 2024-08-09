@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "name": "village_points_esri_imagery_08092024",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.874021443323585,
+          5.29175008075689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87604146820512,
+          5.293010805505652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87662885132671,
+          5.291549510910496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86646723631232,
+          5.280241868908073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.866686879242195,
+          5.28170615510728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556560,
+        "Shape_Length": 130058.60975845793,
+        "Shape_Area": 204540206,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85999235587543,
+          5.263140267620519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556560,
+        "Shape_Length": 130058.60975845793,
+        "Shape_Area": 204540206,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86216374036608,
+          5.26329723517406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85666987599213,
+          5.264474491825621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85415839513547,
+          5.264657620638086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.849737142377386,
+          5.265337813370098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85156843050204,
+          5.264448330566697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85269336463575,
+          5.263925105388227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.852876493448214,
+          5.267613842896448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85457697527825,
+          5.266750521351971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85549261934057,
+          5.265808716030723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556318,
+        "Shape_Length": 132910.49093673495,
+        "Shape_Area": 183508535.5,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.856826843545676,
+          5.265625587218257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556560,
+        "Shape_Length": 130058.60975845793,
+        "Shape_Area": 204540206,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8626346430267,
+          5.264631459379162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86373341590149,
+          5.267823132967837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.865512381508296,
+          5.267561520378601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86553854276722,
+          5.270203807529881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86708205704371,
+          5.270334613824498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86661115438309,
+          5.269052712137244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.865381575213675,
+          5.268503325699849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86357644834795,
+          5.259870110255075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556560,
+        "Shape_Length": 130058.60975845793,
+        "Shape_Area": 204540206,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86018436219235,
+          5.347673270424621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556560,
+        "Shape_Length": 130058.60975845793,
+        "Shape_Area": 204540206,
+        "SRC_DATE": 20220208,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1644278400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.860321015427,
+          5.345327389896472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87118806682574,
+          5.334039655775138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556584,
+        "Shape_Length": 139404.1058198816,
+        "Shape_Area": 698999322,
+        "SRC_DATE": 20230308,
+        "SRC_RES": 0.46,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "GE01",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1678233600000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87660570836679,
+          5.331387983122135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556343,
+        "Shape_Length": 106663.22143753366,
+        "Shape_Area": 414605786,
+        "SRC_DATE": 20230223,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1677110400000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68385923203768,
+          5.360862616548407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.769190375737445,
+          5.379321674540695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76872572139481,
+          5.37681254109046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.769980288119925,
+          5.376731226580498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7688302686219,
+          5.373641275201967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.766681242287206,
+          5.374744829265728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77276821417574,
+          5.375267565401193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77840214808021,
+          5.379728247090502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77913397866986,
+          5.373896835090417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.777433404211926,
+          5.373870567943118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75555042116547,
+          5.377369741424296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74186024993846,
+          5.379982315470754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74447571452321,
+          5.379769531911316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74616025103543,
+          5.380461078479487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556340,
+        "Shape_Length": 166282.8339896506,
+        "Shape_Area": 549478539.5,
+        "SRC_DATE": 20221231,
+        "SRC_RES": 0.5,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV02",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1672444800000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74720643686933,
+          5.381720047872826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9525968007251,
+          5.142967362209711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94906550927382,
+          5.155045084455909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.947277173901625,
+          5.157231662579057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94758524848255,
+          5.159448296758881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94677373495231,
+          5.161912893406278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.946458146357216,
+          5.166338647751756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94802857531851,
+          5.162296108128891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1556564,
+        "Shape_Length": 71150.0924687999,
+        "Shape_Area": 132733734,
+        "SRC_DATE": 20220302,
+        "SRC_RES": 0.31,
+        "SRC_ACC": 5,
+        "SAMP_RES": 0.6,
+        "SRC_DESC": "WV03",
+        "MinMapLevel": 12,
+        "MaxMapLevel": 18,
+        "NICE_NAME": "Vivid",
+        "DrawOrder": 80,
+        "SRC_DATE2": 1646179200000,
+        "NICE_DESC": "Maxar",
+        "BlockName": "Vivid_Standard_ET03_23Q2",
+        "ReleaseName": "Maps 2023.R08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94905799525965,
+          5.162213453973034
+        ]
+      }
+    }
+  ]
+}
