@@ -5,7 +5,7 @@ A set of tools to work with Planetscope imagery, for the Making Pastoralists Cou
 
 Currently working:
 
-## append_imagery_dates()
+## `append_imagery_dates()`
 
 A function to query Esri's World ImageryCitations layer for the acquisition dates of the source imagery used create feature annotations.
 
@@ -28,7 +28,7 @@ append_imagery_dates(
     output_path="../output/appended_features.geojson")
 ```
 
-## check_distinct_dates(geojson_features, output_path) 
+## `check_distinct_dates(geojson_features, output_path)` 
 
 Checks the output of `append_imagery_dates()` to determine the number of distinct values in the `SRC_DATE` property. The function then writes these distinct dates to a `appended_features_distinct_dates.json` file.
 
