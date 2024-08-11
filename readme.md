@@ -5,7 +5,7 @@ A set of tools to work with Planetscope imagery, for the Making Pastoralists Cou
 
 Currently working:
 
-## Append Esri Imagery Dates
+## append_imagery_dates()
 
 A function to query Esri's World ImageryCitations layer for the acquisition dates of the source imagery used create feature annotations.
 
@@ -52,13 +52,12 @@ check_distinct_dates(
 )
 ```
 
-##  `create_aoi` 
+##  `create_aoi()` 
 
 function that creates a minimum bounding geometry for the features from the `geojson_features` and writes the resulting AOI (Area of Interest) to an `aoi.geojson` file at the specified `output_path`.
 
 
 
-### Key Points:
 
 - **Loading GeoJSON Features**: The function starts by loading the input GeoJSON file.
 - **Geometry Collection**: It collects all valid geometries from the features.
